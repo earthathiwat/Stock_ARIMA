@@ -1,6 +1,6 @@
 # Simple ARIMA Models for Forecasting Stock Prices
 
-This repository contains a Jupyter notebook file that demonstrates how to use ARIMA models for forecasting stock prices. The notebook uses the auto_arima function from the pmdarima library to automatically select the best ARIMA model for the given data, but also allows users to manually specify the model parameters using the ARIMA class from the statsmodels library. The notebook also includes examples of how to use the acf and pacf functions from statsmodels to perform Autocorrelation Function (ACF) and Partial Autocorrelation Function (PACF) tests on the data.
+This repository contains a Jupyter notebook file that demonstrates how to use ARIMA models for forecasting stock prices. The notebook uses the auto_arima function from the pmdarima library to automatically select the best ARIMA model for the given data, but also allows users to manually specify the model parameters using the ARIMA class from the statsmodels library. The notebook also includes examples of how to use the acf and pacf functions from statsmodels to perform Autocorrelation Function (ACF) and Partial Autocorrelation Function (PACF) tests on the data. The result is at the very end of the notebook.
 
 ## Requirements
 In order to use the Jupyter notebook in this repository, you will need to have the following installed:
