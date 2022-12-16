@@ -5,7 +5,7 @@ This repository contains a Jupyter notebook file that demonstrates how to use AR
 ## Requirements
 In order to use the Jupyter notebook in this repository, you will need to have the following installed:
 
-- Python 3.6 or later
+- Python 3.9.3 or later
 - Jupyter Notebook
 - The pandas, numpy, pmdarima, statsmodels, and matplotlib libraries
 
